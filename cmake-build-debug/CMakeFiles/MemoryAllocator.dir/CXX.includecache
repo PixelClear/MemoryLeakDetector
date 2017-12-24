@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paritosh/CLionProjects/MemoryAllocator/MemoryLeakDetector.cpp
+MemoryLeakDetector.h
+/home/paritosh/CLionProjects/MemoryAllocator/MemoryLeakDetector.h
+
+/home/paritosh/CLionProjects/MemoryAllocator/MemoryLeakDetector.h
+stdio.h
+-
+cstring
+-
+stdlib.h
+-
+
+/home/paritosh/CLionProjects/MemoryAllocator/main.cpp
+MemoryLeakDetector.h
+/home/paritosh/CLionProjects/MemoryAllocator/MemoryLeakDetector.h
+

@@ -1,0 +1,3 @@
+/home/paritosh/CLionProjects/MemoryAllocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/paritosh/CLionProjects/MemoryAllocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/paritosh/CLionProjects/MemoryAllocator/cmake-build-debug/CMakeFiles/MemoryAllocator.dir
